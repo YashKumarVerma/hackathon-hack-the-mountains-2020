@@ -1,13 +1,15 @@
-![Logo](https://cdn.discordapp.com/attachments/751703726502182952/751770374055919656/mh_long_dark.png)
+<p align="center">
+  <img src="https://www.hackthemountain.tech/img/logo.8c5e0711.png" width="600" />
+</p>
 
 # Building a web framework from scratch
 
-## What we do in this part
-
 - Module to send responses
 
-## Done till now
+# About speaker:
 
-- The Router of the framework
-- Code Structure setup
-- Interfaces written for each entity
+### Yash Kumar Verma
+
+- LinkedIn: [/in/yash-kumar-verma](https://www.linkedin.com/in/yash-kumar-verma/)
+- Github: [/yashkumarverma](https://github.com/yashkumarverma/)
+- Twitter: [@yash_kr_verma](https://twitter.com/yash_kr_verma)
